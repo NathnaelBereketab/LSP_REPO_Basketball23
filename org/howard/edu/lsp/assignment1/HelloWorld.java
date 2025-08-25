@@ -1,5 +1,5 @@
 /**
- * Name: [Your Name Here]
+ * Name: Nathnael Bereketab
  */
 package org.howard.edu.lsp.assignment1;
 
